@@ -1,0 +1,1 @@
+export const COMPETITORS = ['EACH', 'UFU', 'UNICAMP', 'USJT', 'UFSCAR', 'UEM']

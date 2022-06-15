@@ -1,0 +1,11 @@
+.UNICAMP {
+    background: #FFF center/cover url('./UNICAMP.png') no-repeat !important;
+}
+
+.UFU {
+    background: #FFF center/cover url('./UFU.png') no-repeat !important;
+}
+
+.EACH {
+    background: #FFF center/cover url('./EACH.png') no-repeat !important;
+}

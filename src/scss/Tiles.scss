@@ -168,7 +168,6 @@ $spacing: 0;
             animation: shunt-#{$i} 8s ease infinite alternate;
             $red: ($this-x * 10) + 30;
             $blue: ($this-y * 10) + 30;
-            background: rgba($red, 10, $blue, 1);
             box-shadow: 3px 3px rgba($red, 10, $blue, .5);
             @keyframes shunt-#{$i} {
               0%, 10% {
