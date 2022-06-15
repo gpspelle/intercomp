@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  background-color: #1f6aa3 !important;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 50px;
+}
