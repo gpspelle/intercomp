@@ -1,1 +1,1 @@
-export const COMPETITORS = ['EACH', 'UFU', 'UNICAMP', 'USJT', 'UFSCAR', 'UEM']
+export const COMPETITORS = ['EACH', 'UFU', 'UNICAMP', 'USJT', 'UFSCAR', 'UEM', 'CAASO']
