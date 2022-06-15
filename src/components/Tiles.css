@@ -9,3 +9,15 @@
 .EACH {
     background: #FFF center/cover url('./EACH.png') no-repeat !important;
 }
+
+.USJT {
+    background: #FFF center/cover url('./USJT.png') no-repeat !important;
+}
+
+.UFSCAR {
+    background: #FFF center/cover url('./UFSCAR.png') no-repeat !important;
+}
+
+.UEM {
+    background: #FFF center/cover url('./UEM.png') no-repeat !important;
+}
