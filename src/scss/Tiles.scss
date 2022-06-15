@@ -7,7 +7,7 @@ $planar-x: 12;
 $planar-y: 10;
 //$planar-z: 2;
 
-$point-size: 45px;
+$point-size: 30px;
 $spacing: 0;
 
 @function rando-shuffle($list) {
@@ -211,5 +211,4 @@ $grid-container: '.wrap';
 
 body {
   @include print-2d($grid);
-  background: #111;
 }
