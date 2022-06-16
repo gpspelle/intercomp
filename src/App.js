@@ -24,7 +24,7 @@ function App() {
         <>
           <h2>QUEM VAI SER CAMPEÃO DO INTERCOMP 2022?</h2>
           <Tiles />
-          <div style={{ position: "absolute", bottom: "10px" }}>
+          <div className="content">
             <h4>Aguarde os nossos algoritmos calcularem o resultado...</h4>
           </div>
         </>
