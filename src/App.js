@@ -30,9 +30,9 @@ function App() {
         </>
         :
         <>
-          <h2>UNICAMP PE PE PE Ô</h2>
-          <h2>UNICAMP PE PE PE Ô</h2>
-          <h2>UNICAMP PE PE PE Ô</h2>
+          <h2>UNICAMP PE PE Ô</h2>
+          <h2>UNICAMP PE PE Ô</h2>
+          <h2>UNICAMP PE PE Ô</h2>
           <Champion />
         </>
       }
