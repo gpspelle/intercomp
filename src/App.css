@@ -3,7 +3,13 @@ body {
   background-color: #1f6aa3 !important;
 }
 
-h1 {
+h2 {
+  text-align: center;
+  font-weight: 900;
+  color: white;
+}
+
+h4 {
   text-align: center;
   font-weight: 900;
   color: white;
