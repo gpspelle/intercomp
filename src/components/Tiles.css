@@ -1,27 +1,27 @@
 .UNICAMP {
-    background: #FFF center/cover url('./UNICAMP.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images/UNICAMP.png') no-repeat !important;
 }
 
 .UFU {
-    background: #FFF center/cover url('./UFU.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images/UFU.png') no-repeat !important;
 }
 
 .EACH {
-    background: #FFF center/cover url('./EACH.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images//EACH.png') no-repeat !important;
 }
 
 .USJT {
-    background: #FFF center/cover url('./USJT.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images//USJT.png') no-repeat !important;
 }
 
 .UFSCAR {
-    background: #FFF center/cover url('./UFSCAR.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images//UFSCAR.png') no-repeat !important;
 }
 
 .UEM {
-    background: #FFF center/cover url('./UEM.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images//UEM.png') no-repeat !important;
 }
 
 .CAASO {
-    background: #FFF center/cover url('./CAASO.png') no-repeat !important;
+    background: #FFF center/cover url('../assets/images//CAASO.png') no-repeat !important;
 }
