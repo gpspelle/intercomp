@@ -15,7 +15,7 @@ function App() {
   useEffect(() => {
     setTimeout(() => {
       setState(1)
-    }, 1000)
+    }, 5000)
   }, [])
 
   return (

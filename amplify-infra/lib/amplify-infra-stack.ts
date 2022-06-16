@@ -52,11 +52,11 @@ export class AmplifyInfraStack extends cdk.Stack {
     intercompAmplifyApp.addCustomRule(fixReactRouterDom403CloudFrontIssueCustomRule)
     const mainBranch = intercompAmplifyApp.addBranch("main");
 
-    const eCommerceDomain = new amplify.Domain(this, "intercomp-domain", {
+    const intercompDomain = new amplify.Domain(this, "intercomp-domain", {
       app: intercompAmplifyApp,
       domainName: "intercomp.click",
     });
  
-    eCommerceDomain.mapRoot(mainBranch)
+    intercompDomain.mapRoot(mainBranch)
   }
 }
