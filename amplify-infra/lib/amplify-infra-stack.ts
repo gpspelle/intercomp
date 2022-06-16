@@ -54,7 +54,7 @@ export class AmplifyInfraStack extends cdk.Stack {
 
     const eCommerceDomain = new amplify.Domain(this, "intercomp-domain", {
       app: intercompAmplifyApp,
-      domainName: "intercomp.com.br",
+      domainName: "intercomp.click",
     });
  
     eCommerceDomain.mapRoot(mainBranch)
